@@ -10,3 +10,4 @@ scipy
 jinja2
 python-multipart
 h5netcdf
+geojson
