@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Mac
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Project Specific (Temporary downloads)
+*.grib2
+*.bin
+*.png
+temp_*
+
+# Docker
+.dockerignore

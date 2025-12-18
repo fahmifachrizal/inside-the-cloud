@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+httpx
+numpy
+xarray
+cfgrib
+matplotlib
+jinja2
+python-multipart
