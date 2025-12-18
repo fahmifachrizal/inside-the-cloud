@@ -5,5 +5,8 @@ numpy
 xarray
 cfgrib
 matplotlib
+cartopy
+scipy
 jinja2
 python-multipart
+h5netcdf

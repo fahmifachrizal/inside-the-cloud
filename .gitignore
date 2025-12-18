@@ -20,6 +20,7 @@ venv/
 *.bin
 *.png
 temp_*
+temp/
 
 # Docker
 .dockerignore
